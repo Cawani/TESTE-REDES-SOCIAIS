@@ -5,3 +5,6 @@
     --secondary-color: #CDC1FF;
     --font: "PT Sans Narrow", serif;
 }
+body{
+    background-color:var(--bg-color);
+}
