@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
 :root{
     --bg-color:#BFECFF;
-    --primary-color: #f8d78e;
+    --primary-color: #f8d78e54;
     --secondary-color: #CDC1FF;
     --font: "PT Sans Narrow", serif;
 }
@@ -16,4 +16,22 @@ body{
 header{
     background-color:var(--primary-color) ;
     text-align: center;
+}
+
+h1{
+    font-size: 2rem;
+    color:var(--bg-color);
+    font-weight:700 ;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+nav a {
+    text-decoration: none;
+    color:var(--bg-color);
+    margin:0 2rem  1rem 0rem;
 }
