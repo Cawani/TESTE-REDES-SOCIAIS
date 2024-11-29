@@ -1,0 +1,1 @@
+const url= https://raw.githubusercontent.com/Cawani/TESTE-REDES-SOCIAIS/refs/heads/main/graficos/informacoesGlobaisescola.json
